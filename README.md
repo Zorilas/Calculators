@@ -1,2 +1,2 @@
-# Rust-Calculator
-This is a calculator written in Rust
+# Calculators
+Here are Calculators written in diffrent languages
